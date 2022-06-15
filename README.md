@@ -1,5 +1,3 @@
-**Daniel Rose**
-
 **Personal Projects**
 
 1. Deep Dark
