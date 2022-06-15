@@ -13,6 +13,6 @@ Balanced Impulse
 
 **Coding Languages**
 
-C# - Basic Knowledge
-C++ - Beginner Knowledge
-UE Blueprints Visual Scripting - Advanced Knowledge
+-C# - Basic Knowledge
+-C++ - Beginner Knowledge
+-UE Blueprints Visual Scripting - Advanced Knowledge
